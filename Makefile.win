@@ -1,0 +1,46 @@
+# Project: ·ç±©ÐòÕÂ×°±¸±à¼­Æ÷
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = main.o EpicCraftingsPlus.o file.o MysteriousStrengthen.o RandomForge.o GuoItemLoreCommand.o MythicMobs.o
+LINKOBJ  = main.o EpicCraftingsPlus.o file.o MysteriousStrengthen.o RandomForge.o GuoItemLoreCommand.o MythicMobs.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = ·ç±©ÐòÕÂ×°±¸±à¼­Æ÷.exe
+CXXFLAGS = $(CXXINCS) -ansi
+CFLAGS   = $(INCS) -ansi
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+EpicCraftingsPlus.o: EpicCraftingsPlus.cpp
+	$(CPP) -c EpicCraftingsPlus.cpp -o EpicCraftingsPlus.o $(CXXFLAGS)
+
+file.o: file.cpp
+	$(CPP) -c file.cpp -o file.o $(CXXFLAGS)
+
+MysteriousStrengthen.o: MysteriousStrengthen.cpp
+	$(CPP) -c MysteriousStrengthen.cpp -o MysteriousStrengthen.o $(CXXFLAGS)
+
+RandomForge.o: RandomForge.cpp
+	$(CPP) -c RandomForge.cpp -o RandomForge.o $(CXXFLAGS)
+
+GuoItemLoreCommand.o: GuoItemLoreCommand.cpp
+	$(CPP) -c GuoItemLoreCommand.cpp -o GuoItemLoreCommand.o $(CXXFLAGS)
+
+MythicMobs.o: MythicMobs.cpp
+	$(CPP) -c MythicMobs.cpp -o MythicMobs.o $(CXXFLAGS)

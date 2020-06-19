@@ -1,0 +1,1810 @@
+  1:
+    id: 279
+    data: 0
+    display: '<鉴定品质>的劣质重剑'
+    lores:
+    - '&01'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&a&l[ 基础 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7部位:主手'
+    - '&f>> &7类型:双手武器'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&b&l[ 属性 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7物理攻击:<特殊值>' 
+    - '&f>> &7强度:&e[<strength>&e]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&c&l[ 需求 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7精通需求:重剑精通'
+    - '&f>> &7等级需求:<等级>'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&e&l[ 交易 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7回收价格:<价值>'
+    - '&c&l不可交易'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&d&l[ 宝珠 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f◎ &7[<孔2>]'
+    - '&f◎ &7[<孔3>]'
+    - '&f◎ &7[<孔4>]'
+    - '&f◎ &7[<孔5>]'
+    - '&f◎ &7[<孔6>]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&3&l[ 强化 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    levels:
+      普通:
+        weight: 270
+        颜色:
+          type: fixed
+          value: '&f'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '不可开孔'
+        孔4:
+          type: fixed
+          value: '不可开孔'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&f普通'
+        价值:
+          type: fixed
+          value: '1000'
+        等级:
+          type: fixed
+          value: '10'
+        特殊值:
+          type: strength
+          base: 21
+          add: 2
+  2:
+    id: 286
+    data: 0
+    display: '<鉴定品质>的精致铁斧'
+    lores:
+    - '&02'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&a&l[ 基础 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7部位:主手'
+    - '&f>> &7类型:双手武器'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&b&l[ 属性 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7物理攻击:<特殊值>' 
+    - '&f>> &7强度:&e[<strength>&e]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&c&l[ 需求 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7精通需求:斧精通'
+    - '&f>> &7等级需求:<等级>'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&e&l[ 交易 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7回收价格:<价值>'
+    - '&c&l不可交易'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&d&l[ 宝珠 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f◎ &7[<孔2>]'
+    - '&f◎ &7[<孔3>]'
+    - '&f◎ &7[<孔4>]'
+    - '&f◎ &7[<孔5>]'
+    - '&f◎ &7[<孔6>]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&3&l[ 强化 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    levels:
+      普通:
+        weight: 270
+        颜色:
+          type: fixed
+          value: '&f'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '不可开孔'
+        孔4:
+          type: fixed
+          value: '不可开孔'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&f普通'
+        价值:
+          type: fixed
+          value: '4000'
+        等级:
+          type: fixed
+          value: '20'
+        特殊值:
+          type: strength
+          base: 23
+          add: 2
+      优秀:
+        weight: 90
+        颜色:
+          type: fixed
+          value: '&a'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '不可开孔'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&a优秀'
+        价值:
+          type: fixed
+          value: '4800'
+        等级:
+          type: fixed
+          value: '20'
+        特殊值:
+          type: strength
+          base: 27
+          add: 2
+  3:
+    id: 271
+    data: 0
+    display: '<鉴定品质>的杂铁法杖'
+    lores:
+    - '&03'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&a&l[ 基础 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7部位:主手'
+    - '&f>> &7类型:双手武器'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&b&l[ 属性 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7法术攻击:<特殊值>' 
+    - '&f>> &7强度:&e[<strength>&e]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&c&l[ 需求 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7精通需求:法杖精通'
+    - '&f>> &7等级需求:<等级>'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&e&l[ 交易 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7回收价格:<价值>'
+    - '&c&l不可交易'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&d&l[ 宝珠 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f◎ &7[<孔2>]'
+    - '&f◎ &7[<孔3>]'
+    - '&f◎ &7[<孔4>]'
+    - '&f◎ &7[<孔5>]'
+    - '&f◎ &7[<孔6>]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&3&l[ 强化 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    levels:
+      普通:
+        weight: 270
+        颜色:
+          type: fixed
+          value: '&f'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '不可开孔'
+        孔4:
+          type: fixed
+          value: '不可开孔'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&f普通'
+        价值:
+          type: fixed
+          value: '4410'
+        等级:
+          type: fixed
+          value: '21'
+        特殊值:
+          type: strength
+          base: 33
+          add: 3
+      优秀:
+        weight: 90
+        颜色:
+          type: fixed
+          value: '&a'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '不可开孔'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&a优秀'
+        价值:
+          type: fixed
+          value: '5292'
+        等级:
+          type: fixed
+          value: '21'
+        特殊值:
+          type: strength
+          base: 39
+          add: 3
+      精良:
+        weight: 30
+        颜色:
+          type: fixed
+          value: '&3'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '武器孔位'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&3精良'
+        价值:
+          type: fixed
+          value: '6174'
+        等级:
+          type: fixed
+          value: '21'
+        特殊值:
+          type: strength
+          base: 46
+          add: 4
+  4:
+    id: 277
+    data: 0
+    display: '<鉴定品质>的劣质重刀'
+    lores:
+    - '&04'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&a&l[ 基础 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7部位:主手'
+    - '&f>> &7类型:主手武器'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&b&l[ 属性 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7物理攻击:<特殊值>' 
+    - '&f>> &7强度:&e[<strength>&e]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&c&l[ 需求 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7精通需求:刀精通'
+    - '&f>> &7等级需求:<等级>'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&e&l[ 交易 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7回收价格:<价值>'
+    - '&c&l不可交易'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&d&l[ 宝珠 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f◎ &7[<孔2>]'
+    - '&f◎ &7[<孔3>]'
+    - '&f◎ &7[<孔4>]'
+    - '&f◎ &7[<孔5>]'
+    - '&f◎ &7[<孔6>]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&3&l[ 强化 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    levels:
+      普通:
+        weight: 270
+        颜色:
+          type: fixed
+          value: '&f'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '不可开孔'
+        孔4:
+          type: fixed
+          value: '不可开孔'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&f普通'
+        价值:
+          type: fixed
+          value: '20250'
+        等级:
+          type: fixed
+          value: '45'
+        特殊值:
+          type: strength
+          base: 72
+          add: 7
+      优秀:
+        weight: 90
+        颜色:
+          type: fixed
+          value: '&a'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '不可开孔'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&a优秀'
+        价值:
+          type: fixed
+          value: '24300'
+        等级:
+          type: fixed
+          value: '45'
+        特殊值:
+          type: strength
+          base: 86
+          add: 8
+      精良:
+        weight: 30
+        颜色:
+          type: fixed
+          value: '&3'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '武器孔位'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&3精良'
+        价值:
+          type: fixed
+          value: '28350'
+        等级:
+          type: fixed
+          value: '45'
+        特殊值:
+          type: strength
+          base: 100
+          add: 9
+      史诗:
+        weight: 10
+        颜色:
+          type: fixed
+          value: '&d'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '武器孔位'
+        孔5:
+          type: fixed
+          value: '武器孔位'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&d史诗'
+        价值:
+          type: fixed
+          value: '32400'
+        等级:
+          type: fixed
+          value: '45'
+        特殊值:
+          type: strength
+          base: 115
+          add: 11
+  5:
+    id: 273
+    data: 0
+    display: '<鉴定品质>的精致长毛'
+    lores:
+    - '&01'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&a&l[ 基础 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7部位:主手'
+    - '&f>> &7类型:主手武器'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&b&l[ 属性 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7物理攻击:<特殊值>' 
+    - '&f>> &7强度:&e[<strength>&e]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&c&l[ 需求 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7精通需求:矛精通'
+    - '&f>> &7等级需求:<等级>'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&e&l[ 交易 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7回收价格:<价值>'
+    - '&c&l不可交易'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&d&l[ 宝珠 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f◎ &7[<孔2>]'
+    - '&f◎ &7[<孔3>]'
+    - '&f◎ &7[<孔4>]'
+    - '&f◎ &7[<孔5>]'
+    - '&f◎ &7[<孔6>]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&3&l[ 强化 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    levels:
+      普通:
+        weight: 270
+        颜色:
+          type: fixed
+          value: '&f'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '不可开孔'
+        孔4:
+          type: fixed
+          value: '不可开孔'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&f普通'
+        价值:
+          type: fixed
+          value: '5290'
+        等级:
+          type: fixed
+          value: '23'
+        特殊值:
+          type: strength
+          base: 18
+          add: 1
+      优秀:
+        weight: 90
+        颜色:
+          type: fixed
+          value: '&a'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '不可开孔'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&a优秀'
+        价值:
+          type: fixed
+          value: '6348'
+        等级:
+          type: fixed
+          value: '23'
+        特殊值:
+          type: strength
+          base: 21
+          add: 1
+      精良:
+        weight: 30
+        颜色:
+          type: fixed
+          value: '&3'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '武器孔位'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&3精良'
+        价值:
+          type: fixed
+          value: '7405'
+        等级:
+          type: fixed
+          value: '23'
+        特殊值:
+          type: strength
+          base: 25
+          add: 1
+      史诗:
+        weight: 10
+        颜色:
+          type: fixed
+          value: '&d'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '武器孔位'
+        孔5:
+          type: fixed
+          value: '武器孔位'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&d史诗'
+        价值:
+          type: fixed
+          value: '8464'
+        等级:
+          type: fixed
+          value: '23'
+        特殊值:
+          type: strength
+          base: 28
+          add: 1
+      传说:
+        weight: 1
+        颜色:
+          type: fixed
+          value: '&6'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '武器孔位'
+        孔5:
+          type: fixed
+          value: '武器孔位'
+        孔6:
+          type: fixed
+          value: '武器孔位'
+        鉴定品质:
+          type: fixed
+          value: '&6传说'
+        价值:
+          type: fixed
+          value: '10580'
+        等级:
+          type: fixed
+          value: '23'
+        特殊值:
+          type: strength
+          base: 36
+          add: 2
+  6:
+    id: 256
+    data: 0
+    display: '<鉴定品质>的杂铁手套'
+    lores:
+    - '&06'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&a&l[ 基础 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7部位:主手'
+    - '&f>> &7类型:主手武器'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&b&l[ 属性 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7法术攻击:<特殊值>' 
+    - '&f>> &7强度:&e[<strength>&e]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&c&l[ 需求 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7精通需求:魔法手套精通'
+    - '&f>> &7等级需求:<等级>'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&e&l[ 交易 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7回收价格:<价值>'
+    - '&c&l不可交易'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&d&l[ 宝珠 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f◎ &7[<孔2>]'
+    - '&f◎ &7[<孔3>]'
+    - '&f◎ &7[<孔4>]'
+    - '&f◎ &7[<孔5>]'
+    - '&f◎ &7[<孔6>]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&3&l[ 强化 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    levels:
+      优秀:
+        weight: 90
+        颜色:
+          type: fixed
+          value: '&a'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '不可开孔'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&a优秀'
+        价值:
+          type: fixed
+          value: '6912'
+        等级:
+          type: fixed
+          value: '24'
+        特殊值:
+          type: strength
+          base: 32
+          add: 2
+  7:
+    id: 257
+    data: 0
+    display: '<鉴定品质>的精致臂甲'
+    lores:
+    - '&07'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&a&l[ 基础 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7部位:副手'
+    - '&f>> &7类型:副手武器'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&b&l[ 属性 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7生命值:<特殊值>' 
+    - '&f>> &7强度:&e[<strength>&e]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&c&l[ 需求 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7精通需求:臂甲精通'
+    - '&f>> &7等级需求:<等级>'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&e&l[ 交易 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7回收价格:<价值>'
+    - '&c&l不可交易'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&d&l[ 宝珠 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f◎ &7[<孔2>]'
+    - '&f◎ &7[<孔3>]'
+    - '&f◎ &7[<孔4>]'
+    - '&f◎ &7[<孔5>]'
+    - '&f◎ &7[<孔6>]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&3&l[ 强化 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    levels:
+      优秀:
+        weight: 90
+        颜色:
+          type: fixed
+          value: '&a'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '不可开孔'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&a优秀'
+        价值:
+          type: fixed
+          value: '1728'
+        等级:
+          type: fixed
+          value: '12'
+        特殊值:
+          type: strength
+          base: 772
+          add: 76
+      精良:
+        weight: 30
+        颜色:
+          type: fixed
+          value: '&3'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '武器孔位'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&3精良'
+        价值:
+          type: fixed
+          value: '2015'
+        等级:
+          type: fixed
+          value: '12'
+        特殊值:
+          type: strength
+          base: 901
+          add: 89
+  8:
+    id: 274
+    data: 0
+    display: '<鉴定品质>的杂铁盾牌'
+    lores:
+    - '&08'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&a&l[ 基础 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7部位:副手'
+    - '&f>> &7类型:副手武器'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&b&l[ 属性 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7生命值:<特殊值>' 
+    - '&f>> &7强度:&e[<strength>&e]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&c&l[ 需求 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7精通需求:盾牌精通'
+    - '&f>> &7等级需求:<等级>'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&e&l[ 交易 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7回收价格:<价值>'
+    - '&c&l不可交易'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&d&l[ 宝珠 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f◎ &7[<孔2>]'
+    - '&f◎ &7[<孔3>]'
+    - '&f◎ &7[<孔4>]'
+    - '&f◎ &7[<孔5>]'
+    - '&f◎ &7[<孔6>]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&3&l[ 强化 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    levels:
+      优秀:
+        weight: 90
+        颜色:
+          type: fixed
+          value: '&a'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '不可开孔'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&a优秀'
+        价值:
+          type: fixed
+          value: '8112'
+        等级:
+          type: fixed
+          value: '26'
+        特殊值:
+          type: strength
+          base: 2822
+          add: 282
+      精良:
+        weight: 30
+        颜色:
+          type: fixed
+          value: '&3'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '武器孔位'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&3精良'
+        价值:
+          type: fixed
+          value: '9464'
+        等级:
+          type: fixed
+          value: '26'
+        特殊值:
+          type: strength
+          base: 3292
+          add: 329
+      史诗:
+        weight: 10
+        颜色:
+          type: fixed
+          value: '&d'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '武器孔位'
+        孔5:
+          type: fixed
+          value: '武器孔位'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&d史诗'
+        价值:
+          type: fixed
+          value: '10816'
+        等级:
+          type: fixed
+          value: '26'
+        特殊值:
+          type: strength
+          base: 3763
+          add: 376
+  17:
+    id: 291
+    data: 0
+    display: '<鉴定品质>的杂铁匕首'
+    lores:
+    - '&017'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&a&l[ 基础 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7部位:单手'
+    - '&f>> &7类型:单手武器'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&b&l[ 属性 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7物理攻击:<特殊值>' 
+    - '&f>> &7强度:&e[<strength>&e]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&c&l[ 需求 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7精通需求:匕首精通'
+    - '&f>> &7等级需求:<等级>'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&e&l[ 交易 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7回收价格:<价值>'
+    - '&c&l不可交易'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&d&l[ 宝珠 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f◎ &7[<孔2>]'
+    - '&f◎ &7[<孔3>]'
+    - '&f◎ &7[<孔4>]'
+    - '&f◎ &7[<孔5>]'
+    - '&f◎ &7[<孔6>]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&3&l[ 强化 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    levels:
+      精良:
+        weight: 30
+        颜色:
+          type: fixed
+          value: '&3'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '武器孔位'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&3精良'
+        价值:
+          type: fixed
+          value: '17150'
+        等级:
+          type: fixed
+          value: '35'
+        特殊值:
+          type: strength
+          base: 32
+          add: 2
+      史诗:
+        weight: 10
+        颜色:
+          type: fixed
+          value: '&d'
+        孔1:
+          type: fixed
+          value: '武器孔位'
+        孔2:
+          type: fixed
+          value: '武器孔位'
+        孔3:
+          type: fixed
+          value: '武器孔位'
+        孔4:
+          type: fixed
+          value: '武器孔位'
+        孔5:
+          type: fixed
+          value: '武器孔位'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&d史诗'
+        价值:
+          type: fixed
+          value: '19600'
+        等级:
+          type: fixed
+          value: '35'
+        特殊值:
+          type: strength
+          base: 36
+          add: 3
+  9:
+    id: 306
+    data: 0
+    display: '<鉴定品质>的重型头盔'
+    lores:
+    - '&03'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&a&l[ 基础 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7部位:头盔'
+    - '&f>> &7类型:防具'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&b&l[ 属性 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7生命值:<特殊值>' 
+    - '&f>> &7强度:&e[<strength>&e]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&c&l[ 需求 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7精通需求:重甲精通'
+    - '&f>> &7等级需求:<等级>'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&e&l[ 交易 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7回收价格:<价值>'
+    - '&c&l不可交易'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&d&l[ 宝珠 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f◎ &7[<孔2>]'
+    - '&f◎ &7[<孔3>]'
+    - '&f◎ &7[<孔4>]'
+    - '&f◎ &7[<孔5>]'
+    - '&f◎ &7[<孔6>]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&3&l[ 强化 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    levels:
+      优秀:
+        weight: 90
+        颜色:
+          type: fixed
+          value: '&a'
+        孔1:
+          type: fixed
+          value: '防具孔位'
+        孔2:
+          type: fixed
+          value: '防具孔位'
+        孔3:
+          type: fixed
+          value: '防具孔位'
+        孔4:
+          type: fixed
+          value: '不可开孔'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&a优秀'
+        价值:
+          type: fixed
+          value: '8748'
+        等级:
+          type: fixed
+          value: '27'
+        特殊值:
+          type: strength
+          base: 732
+          add: 73
+      精良:
+        weight: 30
+        颜色:
+          type: fixed
+          value: '&3'
+        孔1:
+          type: fixed
+          value: '防具孔位'
+        孔2:
+          type: fixed
+          value: '防具孔位'
+        孔3:
+          type: fixed
+          value: '防具孔位'
+        孔4:
+          type: fixed
+          value: '防具孔位'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&3精良'
+        价值:
+          type: fixed
+          value: '10206'
+        等级:
+          type: fixed
+          value: '27'
+        特殊值:
+          type: strength
+          base: 854
+          add: 85
+      史诗:
+        weight: 10
+        颜色:
+          type: fixed
+          value: '&d'
+        孔1:
+          type: fixed
+          value: '防具孔位'
+        孔2:
+          type: fixed
+          value: '防具孔位'
+        孔3:
+          type: fixed
+          value: '防具孔位'
+        孔4:
+          type: fixed
+          value: '防具孔位'
+        孔5:
+          type: fixed
+          value: '防具孔位'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&d史诗'
+        价值:
+          type: fixed
+          value: '11664'
+        等级:
+          type: fixed
+          value: '27'
+        特殊值:
+          type: strength
+          base: 976
+          add: 97
+      传说:
+        weight: 1
+        颜色:
+          type: fixed
+          value: '&6'
+        孔1:
+          type: fixed
+          value: '防具孔位'
+        孔2:
+          type: fixed
+          value: '防具孔位'
+        孔3:
+          type: fixed
+          value: '防具孔位'
+        孔4:
+          type: fixed
+          value: '防具孔位'
+        孔5:
+          type: fixed
+          value: '防具孔位'
+        孔6:
+          type: fixed
+          value: '防具孔位'
+        鉴定品质:
+          type: fixed
+          value: '&6传说'
+        价值:
+          type: fixed
+          value: '14580'
+        等级:
+          type: fixed
+          value: '27'
+        特殊值:
+          type: strength
+          base: 1220
+          add: 122
+  10:
+    id: 307
+    data: 0
+    display: '<鉴定品质>的重型胸甲'
+    lores:
+    - '&010'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&a&l[ 基础 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7部位:胸甲'
+    - '&f>> &7类型:防具'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&b&l[ 属性 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7生命值:<特殊值>' 
+    - '&f>> &7强度:&e[<strength>&e]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&c&l[ 需求 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7精通需求:重甲精通'
+    - '&f>> &7等级需求:<等级>'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&e&l[ 交易 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7回收价格:<价值>'
+    - '&c&l不可交易'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&d&l[ 宝珠 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f◎ &7[<孔2>]'
+    - '&f◎ &7[<孔3>]'
+    - '&f◎ &7[<孔4>]'
+    - '&f◎ &7[<孔5>]'
+    - '&f◎ &7[<孔6>]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&3&l[ 强化 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    levels:
+      精良:
+        weight: 30
+        颜色:
+          type: fixed
+          value: '&3'
+        孔1:
+          type: fixed
+          value: '防具孔位'
+        孔2:
+          type: fixed
+          value: '防具孔位'
+        孔3:
+          type: fixed
+          value: '防具孔位'
+        孔4:
+          type: fixed
+          value: '防具孔位'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&3精良'
+        价值:
+          type: fixed
+          value: '10976'
+        等级:
+          type: fixed
+          value: '28'
+        特殊值:
+          type: strength
+          base: 884
+          add: 88
+  11:
+    id: 308
+    data: 0
+    display: '<鉴定品质>的重型护腿'
+    lores:
+    - '&011'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&a&l[ 基础 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7部位:护腿'
+    - '&f>> &7类型:防具'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&b&l[ 属性 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7生命值:<特殊值>' 
+    - '&f>> &7强度:&e[<strength>&e]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&c&l[ 需求 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7精通需求:重甲精通'
+    - '&f>> &7等级需求:<等级>'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&e&l[ 交易 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7回收价格:<价值>'
+    - '&c&l不可交易'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&d&l[ 宝珠 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f◎ &7[<孔2>]'
+    - '&f◎ &7[<孔3>]'
+    - '&f◎ &7[<孔4>]'
+    - '&f◎ &7[<孔5>]'
+    - '&f◎ &7[<孔6>]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&3&l[ 强化 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    levels:
+      精良:
+        weight: 30
+        颜色:
+          type: fixed
+          value: '&3'
+        孔1:
+          type: fixed
+          value: '防具孔位'
+        孔2:
+          type: fixed
+          value: '防具孔位'
+        孔3:
+          type: fixed
+          value: '防具孔位'
+        孔4:
+          type: fixed
+          value: '防具孔位'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&3精良'
+        价值:
+          type: fixed
+          value: '7405'
+        等级:
+          type: fixed
+          value: '23'
+        特殊值:
+          type: strength
+          base: 730
+          add: 72
+      史诗:
+        weight: 10
+        颜色:
+          type: fixed
+          value: '&d'
+        孔1:
+          type: fixed
+          value: '防具孔位'
+        孔2:
+          type: fixed
+          value: '防具孔位'
+        孔3:
+          type: fixed
+          value: '防具孔位'
+        孔4:
+          type: fixed
+          value: '防具孔位'
+        孔5:
+          type: fixed
+          value: '防具孔位'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&d史诗'
+        价值:
+          type: fixed
+          value: '8464'
+        等级:
+          type: fixed
+          value: '23'
+        特殊值:
+          type: strength
+          base: 835
+          add: 83
+  12:
+    id: 309
+    data: 0
+    display: '<鉴定品质>的重型鞋子'
+    lores:
+    - '&012'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&a&l[ 基础 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7部位:鞋子'
+    - '&f>> &7类型:防具'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&b&l[ 属性 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7生命值:<特殊值>' 
+    - '&f>> &7强度:&e[<strength>&e]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&c&l[ 需求 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7精通需求:重甲精通'
+    - '&f>> &7等级需求:<等级>'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&e&l[ 交易 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7回收价格:<价值>'
+    - '&c&l不可交易'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&d&l[ 宝珠 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f◎ &7[<孔2>]'
+    - '&f◎ &7[<孔3>]'
+    - '&f◎ &7[<孔4>]'
+    - '&f◎ &7[<孔5>]'
+    - '&f◎ &7[<孔6>]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&3&l[ 强化 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    levels:
+      精良:
+        weight: 30
+        颜色:
+          type: fixed
+          value: '&3'
+        孔1:
+          type: fixed
+          value: '防具孔位'
+        孔2:
+          type: fixed
+          value: '防具孔位'
+        孔3:
+          type: fixed
+          value: '防具孔位'
+        孔4:
+          type: fixed
+          value: '防具孔位'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&3精良'
+        价值:
+          type: fixed
+          value: '12600'
+        等级:
+          type: fixed
+          value: '30'
+        特殊值:
+          type: strength
+          base: 946
+          add: 93
+      史诗:
+        weight: 10
+        颜色:
+          type: fixed
+          value: '&d'
+        孔1:
+          type: fixed
+          value: '防具孔位'
+        孔2:
+          type: fixed
+          value: '防具孔位'
+        孔3:
+          type: fixed
+          value: '防具孔位'
+        孔4:
+          type: fixed
+          value: '防具孔位'
+        孔5:
+          type: fixed
+          value: '防具孔位'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&d史诗'
+        价值:
+          type: fixed
+          value: '14400'
+        等级:
+          type: fixed
+          value: '30'
+        特殊值:
+          type: strength
+          base: 1081
+          add: 107
+      传说:
+        weight: 1
+        颜色:
+          type: fixed
+          value: '&6'
+        孔1:
+          type: fixed
+          value: '防具孔位'
+        孔2:
+          type: fixed
+          value: '防具孔位'
+        孔3:
+          type: fixed
+          value: '防具孔位'
+        孔4:
+          type: fixed
+          value: '防具孔位'
+        孔5:
+          type: fixed
+          value: '防具孔位'
+        孔6:
+          type: fixed
+          value: '防具孔位'
+        鉴定品质:
+          type: fixed
+          value: '&6传说'
+        价值:
+          type: fixed
+          value: '18000'
+        等级:
+          type: fixed
+          value: '30'
+        特殊值:
+          type: strength
+          base: 1352
+          add: 134
+  13:
+    id: 314
+    data: 0
+    display: '<鉴定品质>的轻型头盔'
+    lores:
+    - '&013'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&a&l[ 基础 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7部位:头盔'
+    - '&f>> &7类型:防具'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&b&l[ 属性 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7生命值:<特殊值>' 
+    - '&f>> &7强度:&e[<strength>&e]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&c&l[ 需求 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7精通需求:轻甲精通'
+    - '&f>> &7等级需求:<等级>'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&e&l[ 交易 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7回收价格:<价值>'
+    - '&c&l不可交易'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&d&l[ 宝珠 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f◎ &7[<孔2>]'
+    - '&f◎ &7[<孔3>]'
+    - '&f◎ &7[<孔4>]'
+    - '&f◎ &7[<孔5>]'
+    - '&f◎ &7[<孔6>]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&3&l[ 强化 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    levels:
+      史诗:
+        weight: 10
+        颜色:
+          type: fixed
+          value: '&d'
+        孔1:
+          type: fixed
+          value: '防具孔位'
+        孔2:
+          type: fixed
+          value: '防具孔位'
+        孔3:
+          type: fixed
+          value: '防具孔位'
+        孔4:
+          type: fixed
+          value: '防具孔位'
+        孔5:
+          type: fixed
+          value: '防具孔位'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&d史诗'
+        价值:
+          type: fixed
+          value: '15376'
+        等级:
+          type: fixed
+          value: '31'
+        特殊值:
+          type: strength
+          base: 670
+          add: 65
+  14:
+    id: 315
+    data: 0
+    display: '<鉴定品质>的轻型胸甲'
+    lores:
+    - '&014'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&a&l[ 基础 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7部位:胸甲'
+    - '&f>> &7类型:防具'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&b&l[ 属性 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7生命值:<特殊值>' 
+    - '&f>> &7强度:&e[<strength>&e]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&c&l[ 需求 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7精通需求:轻甲精通'
+    - '&f>> &7等级需求:<等级>'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&e&l[ 交易 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7回收价格:<价值>'
+    - '&c&l不可交易'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&d&l[ 宝珠 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f◎ &7[<孔2>]'
+    - '&f◎ &7[<孔3>]'
+    - '&f◎ &7[<孔4>]'
+    - '&f◎ &7[<孔5>]'
+    - '&f◎ &7[<孔6>]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&3&l[ 强化 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    levels:
+      史诗:
+        weight: 10
+        颜色:
+          type: fixed
+          value: '&d'
+        孔1:
+          type: fixed
+          value: '防具孔位'
+        孔2:
+          type: fixed
+          value: '防具孔位'
+        孔3:
+          type: fixed
+          value: '防具孔位'
+        孔4:
+          type: fixed
+          value: '防具孔位'
+        孔5:
+          type: fixed
+          value: '防具孔位'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&d史诗'
+        价值:
+          type: fixed
+          value: '16384'
+        等级:
+          type: fixed
+          value: '32'
+        特殊值:
+          type: strength
+          base: 691
+          add: 68
+      传说:
+        weight: 1
+        颜色:
+          type: fixed
+          value: '&6'
+        孔1:
+          type: fixed
+          value: '防具孔位'
+        孔2:
+          type: fixed
+          value: '防具孔位'
+        孔3:
+          type: fixed
+          value: '防具孔位'
+        孔4:
+          type: fixed
+          value: '防具孔位'
+        孔5:
+          type: fixed
+          value: '防具孔位'
+        孔6:
+          type: fixed
+          value: '防具孔位'
+        鉴定品质:
+          type: fixed
+          value: '&6传说'
+        价值:
+          type: fixed
+          value: '20480'
+        等级:
+          type: fixed
+          value: '32'
+        特殊值:
+          type: strength
+          base: 864
+          add: 86
+  15:
+    id: 316
+    data: 0
+    display: '<鉴定品质>的轻型护腿'
+    lores:
+    - '&015'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&a&l[ 基础 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7部位:护腿'
+    - '&f>> &7类型:防具'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&b&l[ 属性 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7生命值:<特殊值>' 
+    - '&f>> &7强度:&e[<strength>&e]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&c&l[ 需求 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7精通需求:轻甲精通'
+    - '&f>> &7等级需求:<等级>'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&e&l[ 交易 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7回收价格:<价值>'
+    - '&c&l不可交易'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&d&l[ 宝珠 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f◎ &7[<孔2>]'
+    - '&f◎ &7[<孔3>]'
+    - '&f◎ &7[<孔4>]'
+    - '&f◎ &7[<孔5>]'
+    - '&f◎ &7[<孔6>]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&3&l[ 强化 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    levels:
+      传说:
+        weight: 1
+        颜色:
+          type: fixed
+          value: '&6'
+        孔1:
+          type: fixed
+          value: '防具孔位'
+        孔2:
+          type: fixed
+          value: '防具孔位'
+        孔3:
+          type: fixed
+          value: '防具孔位'
+        孔4:
+          type: fixed
+          value: '防具孔位'
+        孔5:
+          type: fixed
+          value: '防具孔位'
+        孔6:
+          type: fixed
+          value: '防具孔位'
+        鉴定品质:
+          type: fixed
+          value: '&6传说'
+        价值:
+          type: fixed
+          value: '154880'
+        等级:
+          type: fixed
+          value: '88'
+        特殊值:
+          type: strength
+          base: 7870
+          add: 786
+  16:
+    id: 317
+    data: 0
+    display: '<鉴定品质>的轻型鞋子'
+    lores:
+    - '&016'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&a&l[ 基础 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7部位:鞋子'
+    - '&f>> &7类型:防具'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&b&l[ 属性 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7生命值:<特殊值>' 
+    - '&f>> &7强度:&e[<strength>&e]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&c&l[ 需求 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7精通需求:轻甲精通'
+    - '&f>> &7等级需求:<等级>'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&e&l[ 交易 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f>> &7回收价格:<价值>'
+    - '&c&l不可交易'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&d&l[ 宝珠 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    - '&f◎ &7[<孔2>]'
+    - '&f◎ &7[<孔3>]'
+    - '&f◎ &7[<孔4>]'
+    - '&f◎ &7[<孔5>]'
+    - '&f◎ &7[<孔6>]'
+    - '&d&l&m--&4&l&m--&c&l&m--&6&l&m--&e&l&m--&3&l[ 强化 ]&a&l&m--&2&l&m--&b&l&m--&3&l&m--&9&l&m--'
+    levels:
+      普通:
+        weight: 270
+        颜色:
+          type: fixed
+          value: '&f'
+        孔1:
+          type: fixed
+          value: '防具孔位'
+        孔2:
+          type: fixed
+          value: '防具孔位'
+        孔3:
+          type: fixed
+          value: '不可开孔'
+        孔4:
+          type: fixed
+          value: '不可开孔'
+        孔5:
+          type: fixed
+          value: '不可开孔'
+        孔6:
+          type: fixed
+          value: '不可开孔'
+        鉴定品质:
+          type: fixed
+          value: '&f普通'
+        价值:
+          type: fixed
+          value: '11560'
+        等级:
+          type: fixed
+          value: '34'
+        特殊值:
+          type: strength
+          base: 459
+          add: 45

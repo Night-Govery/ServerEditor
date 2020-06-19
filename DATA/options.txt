@@ -1,0 +1,17 @@
+1	重剑 	 2 物理攻击	  主手	双手武器	279		DIAMOND_AXE		武器孔位	zhongjian	EMERALD				388		140		
+2	斧 	     2 物理攻击   主手	双手武器	286		GOLD_AXE		武器孔位	fu			IRON_NUGGET			452		100		
+3	法杖 	 2 法术攻击   主手	双手武器	271		WOOD_AXE		武器孔位	fazhang		GOLD_NUGGET			371		140		
+4 	刀 		 2 物理攻击   主手	主手武器	277		DIAMOND_SPADE	武器孔位	dao			DIAMOND				264		100		
+5 	矛 		 2 物理攻击   主手	主手武器	273		STONE_SPADE		武器孔位	mao			NETHER_BRICK_ITEM	405		70		
+6 	魔法手套 2 法术攻击   主手	主手武器	256		IRON_SPADE		武器孔位	mofashoutao	CLAY_BRICK			336		100		
+7 	臂甲 	 1 生命值     副手	副手武器	257		IRON_PICKAXE	武器孔位	bijia		FLINT				318		50		
+8 	盾牌 	 1 生命值     副手	副手武器 	274		STONE_PICKAXE	武器孔位	dunpai		QUARTZ				406		100		
+9 	匕首 	 2 物理攻击   单手	单手武器	291		STONE_HOE		武器孔位	bishou		SULPHUR				289 	50		
+10 	重甲	 1 生命值     头盔	防具		306		IRON_HELMET		防具孔位	zhongjia	PRISMARINE_SHARD	409 	25		
+11 	重甲 	 1 生命值     胸甲	防具		307		IRON_CHESTPLATE	防具孔位	zhongjia	PRISMARINE_CRYSTALS	410 	25		
+12 	重甲	 1 生命值     护腿	防具		308		IRON_LEGGINGS	防具孔位	zhongjia	SHULKER_SHELL		450 	25		
+13 	重甲 	 1 生命值     鞋子	防具		309		IRON_BOOTS		防具孔位	zhongjia	GLOWSTONE_DUST		348 	25		
+14 	轻甲 	 1 生命值     头盔	防具		314		GOLD_HELMET		防具孔位	qingjia		SUGAR				353 	13		
+15 	轻甲 	 1 生命值     胸甲	防具		315		GOLD_CHESTPLATE	防具孔位	qingjia		FEATHER				288 	13		
+16 	轻甲 	 1 生命值     护腿	防具		316		GOLD_LEGGINGS	防具孔位	qingjia		SLIME_BALL			341 	13		
+17 	轻甲 	 1 生命值     鞋子	防具		317		GOLD_BOOTS		防具孔位	qingjia		LEATHER				334 	13		
